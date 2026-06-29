@@ -1,0 +1,10 @@
+:root{
+    --primary: #7C4EE4;
+
+}
+.purplecolor{
+    color:var(--primary);
+}
+.purple{
+    background-color: var(--primary);
+}
